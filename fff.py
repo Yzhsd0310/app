@@ -1,5 +1,5 @@
 import streamlit as st
-from pyecharts.charts import *
+from pyecharts.charts import Pie
 from pyecharts import options as opts
 from pyecharts.charts import Bar3D
 from pyecharts.charts import Map
